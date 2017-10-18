@@ -1,9 +1,9 @@
 ufw-extras
 ==========
 
-Extra configuration files for ufw that makes it easy to allow or deny network access for certain applications.
+Extra configuration files for uncomplicated firewall (ufw).
 
-Additional submissions are welcome.
+Merge requests are welcome.
 
 Version 0.3
 
