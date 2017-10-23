@@ -5,6 +5,5 @@ Extra configuration files for uncomplicated firewall (ufw).
 
 Merge requests are welcome.
 
-Version 0.3
-
-GPL2
+* Version: 0.4
+* License: GPL2
