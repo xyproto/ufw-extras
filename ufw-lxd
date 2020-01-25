@@ -1,0 +1,4 @@
+[LXD]
+title=LXD
+description=LXD is a next generation system container manager
+ports=8443/tcp

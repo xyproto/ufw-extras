@@ -1,0 +1,4 @@
+[KDE Connect]
+title=KDE Connect
+description=KDE Connect enables your devices to communicate with each other
+ports=1714:1764/udp|1714:1764/tcp
