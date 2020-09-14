@@ -1,4 +1,4 @@
 [HPLIP]
 title=HPLIP
 description=HP Printers
-ports=161:162/tcp|9100/tcp
+ports=161:162/tcp|9100/tcp|5353/udp
