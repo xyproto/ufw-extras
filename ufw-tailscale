@@ -1,0 +1,4 @@
+[tailscale]
+title=Tailscale
+description=Tailscale is a a mesh VPN that makes it easy to connect your devices, wherever they are
+ports=3478,41641/udp
