@@ -1,0 +1,4 @@
+[MPD]
+title=MPD server
+description=Flexible, powerful, server-side application for playing music
+ports=6600/tcp
