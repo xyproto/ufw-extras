@@ -1,0 +1,4 @@
+[mDNS]
+title=multicast Domain Name System
+description=The multicast Domain Name System allows devices to connect to each other using a hostname .local domain
+ports=5353/udp
