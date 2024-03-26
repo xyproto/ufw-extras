@@ -1,0 +1,4 @@
+[LLMNR]
+title=Link-Local Multicast Name Resolution
+description=Link-Local Multicast Name Resolution allows hosts to perform name resolution on the same local link
+ports=5355
