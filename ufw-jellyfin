@@ -1,0 +1,4 @@
+[Jellyfin]
+title=Jellyfin Media Server
+description=Jellyfin is a self-hosted media server designed to organise and share media over the network
+ports=8096/tcp|8920/tcp|1900/udp|7359/udp
