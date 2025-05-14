@@ -1,4 +1,4 @@
 [mDNS]
 title=multicast Domain Name System
-description=The multicast Domain Name System allows devices to connect to each other using a hostname .local domain
+description=The multicast Domain Name System allows devices to connect to each other using a hostname .local domain, use Bonjour instead of this unless you just want mDNS
 ports=5353/udp
