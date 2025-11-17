@@ -1,0 +1,19 @@
+[Steam]
+title=Steam
+description=Ports for Steam RemotePlay, local file transfer and client discovery to work properly
+ports=27040/tcp|27036:27037/tcp|27031:27036/udp
+
+[Steam Remote Play]
+title=Steam Remote Play
+description=Ports for Steam RemotePlay and client discovery
+ports=27036/tcp|27031:27036/udp
+
+[Steam Dedicated or Listen Servers]
+title=Steam Dedicated or Listen Servers
+description=Ports for SRCDS Rcon and gameplay traffic
+ports=27015
+
+[Steam local file transfer]
+title=Steam
+description=Ports for local file transfer and client discovery
+ports=27040/tcp|27037/tcp|27031:27036/udp
