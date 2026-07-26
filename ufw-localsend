@@ -1,0 +1,4 @@
+[LocalSend]
+title=LocalSend
+description=An open-source cross-platform alternative to AirDrop
+ports=53317/udp|53317/tcp
